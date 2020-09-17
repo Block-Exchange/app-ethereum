@@ -1,2 +1,2 @@
 # app-ethereum
-This pack provides capabilities for working with Ethereum
+This App provides capabilities for working with Ethereum
